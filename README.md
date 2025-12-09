@@ -13,3 +13,8 @@ Here's the gameplay:
 2) Clone this repo
 3) Open file `SpaceInvaders.pyde` and press `Ctrl+R`.
 4) Enjoy!
+
+# Developers
+
+1) Sheikha Almansoori: Menu UI Layout, Player behaviour (movement, shooting, death)
+2) Aadhar Wasti: Enemy AI behaviour, Points UI element, Obstacles, Power-ups
